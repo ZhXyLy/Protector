@@ -1,4 +1,4 @@
-package ai.hou.library;
+package ai.hou.demo;
 
 import org.junit.Test;
 

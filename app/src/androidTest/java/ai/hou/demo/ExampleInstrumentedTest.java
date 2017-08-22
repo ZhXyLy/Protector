@@ -1,4 +1,4 @@
-package ai.hou.library;
+package ai.hou.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ai.hou.library.test", appContext.getPackageName());
+        assertEquals("ai.hou.protector", appContext.getPackageName());
     }
 }
